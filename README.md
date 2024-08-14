@@ -4,7 +4,7 @@ Welcome to the MERN E-commerce Website! This full-stack web application is built
 
 ## Features
 
-- **User Authentication**: Secure user registration and login with JWT.
+- **User Authentication**: Secure user registration and login with JWT. 
 - **Product Management**: Admins can add, edit, and delete products.
 - **Shopping Cart**: Users can add products to the cart and proceed to checkout.
 - **Order Management**: Track orders, order history, and manage order status.
