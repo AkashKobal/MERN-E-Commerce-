@@ -3,7 +3,7 @@
 Welcome to the MERN E-commerce Website! This full-stack web application is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to provide a seamless online shopping experience.
 
 ## Features
-
+ 
 - **User Authentication**: Secure user registration and login with JWT. 
 - **Product Management**: Admins can add, edit, and delete products.
 - **Shopping Cart**: Users can add products to the cart and proceed to checkout.
